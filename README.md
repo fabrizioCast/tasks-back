@@ -14,8 +14,8 @@ Este es el backend del proyecto de gestión de tareas, construido con **NestJS**
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio/backend
+   git clone https://github.com/fabrizioCast/tasks-back.git
+   cd tasks-back
    ```
 
 2. Instala las dependencias necesarias:
