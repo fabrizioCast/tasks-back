@@ -1,1 +1,1 @@
-CREATE DATABASE task_manager;
+CREATE DATABASE task;
